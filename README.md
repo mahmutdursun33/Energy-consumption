@@ -6,7 +6,7 @@ Ben bu veriseti hatasını görmezden gelip çalışmama devam ettim.
 
 
 
-![Screenshot_1](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/35c58142-8178-4ccb-8544-fb900081e316)
+![Screenshot_1](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/35c58142-8178-4ccb-8544-fb900081e316)   ![Screenshot_3](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/d9de9184-af97-49d5-a7ac-40c8c1908545)
 
 
-![Screenshot_3](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/d9de9184-af97-49d5-a7ac-40c8c1908545)
+
