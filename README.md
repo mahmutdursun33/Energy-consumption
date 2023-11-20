@@ -5,6 +5,9 @@ Ancak jupyter notebook ta verisetiyle geopandas kütüphanesinin ülke isimleri 
 Ben bu veriseti hatasını görmezden gelip çalışmama devam ettim.
 
 
+
+
+
 power bi ile oluşturduğum 2019 türkiye veri tablosu
 
 
@@ -14,7 +17,14 @@ power bi ile oluşturduğum 2019 türkiye veri tablosu
 jupter notebook ile oluşturduğum veri tablosu
 
 
-![Screenshot_3](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/d9de9184-af97-49d5-a7ac-40c8c1908545)
+![Screenshot_2](https://github.com/mahmutdursun33/Energy-consumption/assets/112586810/7129e0c5-91b3-42b1-9b95-0fdd9ef9b3bf)
+
+Gördüğünüz gibi 2019 yılı türkiye enerji tüketim pasta grafiğinin verileri aynı.Bu grafikler bilgilerin doğru olduğunu kanıtlıyor.
+
+
+
+
+
 
 
 
