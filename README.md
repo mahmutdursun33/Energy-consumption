@@ -1,7 +1,7 @@
 # Energy-consumption
 
 Bu çalışmamda world energy consumption isimli verisetine hem power bi ile hemde juptyter notebook kullanarak çalışma sergiledim.İki ayrı programda da aynı verisetini kullandım dolayısıyla bilgiler aynı çıkacaktır.
-Ancak jupyter notebook ta verisetiyle geopandas kütüphanesinin ülke isimleri farklı olduğundan (Geopandasta ülke ismi United states America kullanırken verisetinde ülke ismi Usa diye geçiyor gibi) bazı ülkelerin verisi 0 olarak kabul edildi.
+Ancak verisetiyle geopandas kütüphanesinin ülke isimleri farklı olduğundan (Geopandasta ülke ismi United states America kullanırken verisetinde ülke ismi Usa diye geçiyor gibi) bazı ülkelerin verisi 0 olarak kabul edildi.
 Ben bu veriseti hatasını görmezden gelip çalışmama devam ettim.
 
 
